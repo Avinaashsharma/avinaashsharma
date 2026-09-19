@@ -54,15 +54,15 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aveenavin" target="_blank">
+<a href="https://www.linkedin.com/in/avinaashsharma4" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:73aveen@gmail.com">
+<a href="mailto:avinaashsharma4@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aveenavin">
+<a href="https://github.com/avinaashsharma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -76,11 +76,11 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 
 ###  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aveenavin&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=avinaashsharma&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aveenavin&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=avinaashsharma&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aveenavin&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avinaashsharma&layout=compact&theme=tokyonight)
 
 ---
 
